@@ -1,5 +1,4 @@
 import gradio as gr
-from sqlalchemy import desc
 from src import hand_utils
 import numpy as np
 
